@@ -251,6 +251,9 @@ return 0;
 //use printf function
   printf("Please enter Number:");
 
+  //use scanf to read a number from user
+  scanf("%d",&number);
+
   //8. Write a solution to the following variation of the FizzBuzz
   //   problem.  Print out integers 1 thru n, one to a line, except
   //   that if the integer is divisible by 7 print "Foo" instead.
