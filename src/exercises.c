@@ -271,7 +271,11 @@ return 0;
   //using for loop
 
   for(int i=2; i<=n; i++){
-    
+
+    //show out put
+    printf("%d",i);
+    //sum of number
+    sum +=i;
   }
 
   //8. Write a solution to the following variation of the FizzBuzz
