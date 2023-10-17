@@ -13,7 +13,7 @@
 int main(int argc, char **argv) {
 
   if(argc != 2) {
-  printf(stderr, "Usage: %s n\n", argv[0]);
+  printf("Usage: %s n\n", argv[0]);
     exit(1);
   }
 
@@ -29,21 +29,29 @@ int main(int argc, char **argv) {
     printf("%d ", i);
   }
   printf("\n");
+  //using while loop
+  
+  }
 
   //2. Rewrite the given while loop as an equivalent for loop
   int k = 3;
   while(k > -4) {
-    printf("%d ", k);
+    printf("%d\n ", k);
     k--;
   }
   printf("\n");
 
+ 
+  }
+
   //3. Print numbers 1 thru n separated by a comma except for
   //   the last one; example: 1, 2, 3, 4, 5
+  
 
   //4. Print squares of numbers 1 thru n separated by a comma
   //   except for the last one; example: 1, 4, 9, 16, 25
 
+  
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
 
