@@ -300,5 +300,8 @@ return 0;
 
   int number;
 
+  //function use for output 
+printf("Please Enter a Number:");
+
   return 0;
 }
