@@ -156,7 +156,9 @@ for(int i=1; i<=n; i++){
   //use codition statment
 
   if(n<1){
-    
+
+//print output on console
+    printf("Please Provide Positive Number:");
   }
 
   //6. Compute the summation of squares of numbers 1 thru n
