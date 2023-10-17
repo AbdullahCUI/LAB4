@@ -261,7 +261,8 @@ return 0;
     printf("Please provide a number that Greater or equal to 2:");
 
     return 1; //error message
-  }
+  } 
+  int sum_number=0
 
   //8. Write a solution to the following variation of the FizzBuzz
   //   problem.  Print out integers 1 thru n, one to a line, except
