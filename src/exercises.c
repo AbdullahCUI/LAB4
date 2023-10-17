@@ -309,7 +309,12 @@ scanf("%d",&number);
 //use condition 
 
 if(n<1){
-  
+
+  //print output message
+
+  printf("Please Provide a Positive number or equal to 1:");
+
+  return 1; //error message
 }
 
   return 0;
