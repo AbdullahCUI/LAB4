@@ -166,7 +166,7 @@ for(int i=1; i<=n; i++){
 
 //using for loop
 //declared variable
-  for(int i=1;)
+  for(int i=1; i<=n; i++){}
 
   //6. Compute the summation of squares of numbers 1 thru n
   //   and print the result; example: 1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55
