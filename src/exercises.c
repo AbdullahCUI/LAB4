@@ -196,6 +196,10 @@ for(int i=1; i<=n; i++){
 
   printf("Please Enter A Number:");
 
+  //use scanf function to read a number from user
+
+  scanf("%d", &number);
+
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
 
