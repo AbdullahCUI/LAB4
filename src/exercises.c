@@ -134,6 +134,9 @@ for(int i=1; i<=n; i++){
   if (i<n){
     printf(",");
   }
+  printf("\n");
+
+  return 0;
 
 }
   
