@@ -209,7 +209,7 @@ for(int i=1; i<=n; i++){
 
     //exit on error 
 
-    return 0;
+    return 1;
   }
 
   //7. Compute the summation of even numbers 1 thru n and print
