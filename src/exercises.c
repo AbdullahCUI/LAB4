@@ -323,7 +323,10 @@ for(int i=i; i<=n; i++){
 // use condition statment
 if(i%7==0 && i%11 ==0){
 
-  
+//output message when correct this condition
+
+printf("FooBar\n");
+
 }
 
 }
