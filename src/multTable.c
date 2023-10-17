@@ -41,7 +41,8 @@ int main(int argc, char **argv) {
   //now display a table
   //use for loop for table
 //initialize variable
-  for(init i=1;)
+//add condition in loop
+  for(init i=1;  i<= number;)
  
   return 0;
 }
