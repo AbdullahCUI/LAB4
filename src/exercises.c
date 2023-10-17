@@ -336,6 +336,8 @@ printf("Foo\n");
 //output 
 printf("Bar\n");
 
+} else {
+  //fourt condition
 }
   return 0;
 }
