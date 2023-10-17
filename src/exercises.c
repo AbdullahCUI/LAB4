@@ -173,7 +173,9 @@ for(int i=1; i<=n; i++){
     sum+=i;
 //use if condition
     if(i<n){
-      
+
+      //show output 
+      printf("+");
     }
      }
 
