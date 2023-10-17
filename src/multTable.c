@@ -50,7 +50,8 @@ int main(int argc, char **argv) {
 
     //use third for loop 
   //initialize variable
-    for(int j=1;)
+  //add condition
+    for(int j=1; j<=number;)
 
   }
  
