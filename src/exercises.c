@@ -79,9 +79,12 @@ int main(int argc, char **argv) {
 //declared variable
 //add condition
 //add expression
-    for(int i=1; i>=n; i++){
+    for(int i=1; i>=n; i++);
+
+    if(n<=i)
 
 // using printf fucntion to show out put
+
 
 
     }
