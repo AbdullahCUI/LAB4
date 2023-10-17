@@ -45,6 +45,9 @@ int main(int argc, char **argv) {
 //expression in loop
   for(init i=1;  i<= number; i++){
 
+    //print out put
+    printf("2d |",i);
+
   }
  
   return 0;
