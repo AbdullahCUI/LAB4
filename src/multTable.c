@@ -35,6 +35,13 @@ int main(int argc, char **argv) {
     printf("%4d",i);
 
   }
+  /
+  printf("\n");
+
+  //now display a table
+  //use for loop for table
+
+  for()
  
   return 0;
 }
