@@ -58,8 +58,10 @@ int main(int argc, char **argv) {
 
       printf("%4d", i*j);
     }
+    printf("\n")
 
   }
  
+ //program sucessesful message
   return 0;
 }
