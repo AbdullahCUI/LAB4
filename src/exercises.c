@@ -282,6 +282,8 @@ return 0;
   if(i<n-1){
     //out put
     printf("+");
+  } else {
+    printf("= %d\n",sum);
   }
 
   //8. Write a solution to the following variation of the FizzBuzz
