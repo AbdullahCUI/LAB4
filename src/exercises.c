@@ -237,6 +237,8 @@ if (i<n){
   //use printf function
   printf("=%d\n",sum);
 }
+return 0;
+//return with successes
   }
 
   //7. Compute the summation of even numbers 1 thru n and print
