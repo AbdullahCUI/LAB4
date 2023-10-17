@@ -230,7 +230,10 @@ for(int i=1; i<=n; i++){
 
 printf("%d^2",i);
 
-if (i<n)
+if (i<n){
+  //use printf
+  printf("+");
+}
   }
 
   //7. Compute the summation of even numbers 1 thru n and print
