@@ -88,8 +88,11 @@ int main(int argc, char **argv) {
     } else {
       //use printf fucntion for output
       printf("%d\n",i);
-    }
+    } 
     //use else condition for 2nd if statment
+    else {
+      
+    }
 
 
 
