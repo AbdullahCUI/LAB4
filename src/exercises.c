@@ -338,6 +338,7 @@ printf("Bar\n");
 
 } else {
   //fourt condition
+  printf("%d\n",i);
 }
   return 0;
 }
