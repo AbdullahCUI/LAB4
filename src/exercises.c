@@ -103,6 +103,7 @@ int main(int argc, char **argv) {
   //   except for the last one; example: 1, 4, 9, 16, 25
 
 //star question 4 
+int number;
   
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
