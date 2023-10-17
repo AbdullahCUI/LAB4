@@ -229,6 +229,8 @@ for(int i=1; i<=n; i++){
 //using printf function
 
 printf("%d^2",i);
+
+if (i<n)
   }
 
   //7. Compute the summation of even numbers 1 thru n and print
