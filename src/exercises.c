@@ -84,7 +84,7 @@ int main(int argc, char **argv) {
     if(n<=i){
 // using printf fucntion to show out put
    printf("%d,",i);
-    }
+    } else {}
 
 
 
