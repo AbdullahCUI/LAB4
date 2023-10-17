@@ -48,6 +48,10 @@ int main(int argc, char **argv) {
     //print out put
     printf("2d |",i);
 
+    //use third for loop 
+
+    for()
+
   }
  
   return 0;
