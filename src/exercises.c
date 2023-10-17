@@ -306,5 +306,11 @@ printf("Please Enter a Number:");
 //use scanf to read a number
 scanf("%d",&number);
 
+//use condition 
+
+if(n<1){
+  
+}
+
   return 0;
 }
