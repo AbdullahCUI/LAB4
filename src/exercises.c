@@ -303,5 +303,8 @@ return 0;
   //function use for output 
 printf("Please Enter a Number:");
 
+//use scanf to read a number
+scanf("%d",&number);
+
   return 0;
 }
