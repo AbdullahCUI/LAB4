@@ -108,6 +108,9 @@ int number;
 //using printf function to show the output on console
 
 printf("Please Enter a Number:");
+
+//use scanf function to read a number
+scanf("%d", &number);
   
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
