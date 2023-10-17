@@ -32,19 +32,12 @@ int main(int argc, char **argv) {
 
   //TODO: place your code here
 
+  //using do while loop for guesses gaming
+
   do{
-    printf("Please enter NUmber:");
-
-    scanf("%d", &numGuesses);
-
-    if (numGuesses>number){
-      printf("Number is to High :Please try Again\n");
-    } else if(numGuesses<number){
-      printf("Number is to low:Try again\n");
-    }else {
-      printf("Congratulation YOU Got Number:\n");
-    }
-  } while(numGuesses !=number);
+ //printf is predefine fucntioon which show the resutl on console
+    printf("Please enter a NUmber For Guesses Game:");
+  }
 
   printf("Congratulations, you found it!  Number of guesses: %d\n", numGuesses);
   return 0;
