@@ -36,7 +36,7 @@ int main(int argc, char **argv) {
 
   do{
  //printf is predefine fucntioon which show the resutl on console
-    printf("Please enter a NUmber For Guesses Game:");
+    printf("Please enter a NUmber For Guesses Game:\n");
  
  //using scanf predefine function to read number from user
     scanf("%d",&numGuesses);
@@ -47,13 +47,13 @@ int main(int argc, char **argv) {
 
       //using printf to show the message to user
 
-      printf("Number is to High:Please try again:");
+      printf("Number is to High:Please try again:\n");
 
  // using condition if the number is less than declared number than this statment show the give message
     } else if (numGuesses<number){
 
       //showing the message to user that we use printf funtion
-      printf("The number is to low :Please try again:");
+      printf("The number is to low :Please try again:\n800");
 
 //using else statment to show if the if and if-else statment is false then the else is correct
     }else {
