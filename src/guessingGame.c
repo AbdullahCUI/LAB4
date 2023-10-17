@@ -55,11 +55,12 @@ int main(int argc, char **argv) {
       //showing the message to user that we use printf funtion
       printf("The number is to low :Please try again:");
 
-    }
-  //using else statment to show if the if and if-else statment is false then the else is correct
-  } else {
+//using else statment to show if the if and if-else statment is false then the else is correct
+    }else {
     printf("Congratulations, you found it!  Number of guesses: %d\n", numGuesses);
-
+  
+  } 
+  //using while 
   }while (numGuesses !=number);
 
   
