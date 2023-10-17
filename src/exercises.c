@@ -221,7 +221,9 @@ for(int i=1; i<=n; i++){
 
   //using for loop
 
-  for(int i=1;)
+  for(int i=1; i<=n; i++){
+    
+  }
 
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
