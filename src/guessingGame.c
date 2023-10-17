@@ -37,6 +37,9 @@ int main(int argc, char **argv) {
   do{
  //printf is predefine fucntioon which show the resutl on console
     printf("Please enter a NUmber For Guesses Game:");
+ 
+ //using scanf predefine function to read number from user
+    scnaf("%d",&numGuesses);
   }
 
   printf("Congratulations, you found it!  Number of guesses: %d\n", numGuesses);
