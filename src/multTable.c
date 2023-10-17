@@ -26,8 +26,8 @@ int main(int argc, char **argv) {
   scanf("%d", &number);
 
   //using for loop
-
-  for()
+//declare a variable and store a number in them
+  for(int i=1;)
  
   return 0;
 }
