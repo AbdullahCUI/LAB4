@@ -177,6 +177,11 @@ for(int i=1; i<=n; i++){
       //show output 
       printf("+");
     }
+    //use else condition
+    else{
+      //show output
+      printf("%d\n",sum);
+    }
      }
 
   //6. Compute the summation of squares of numbers 1 thru n
