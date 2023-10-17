@@ -53,7 +53,10 @@ int main(int argc, char **argv) {
   //add condition
   //add expression
     for(int j=1; j<=number; j++){
-      
+
+      //print output on console
+
+      printf("%4d", i*j);
     }
 
   }
