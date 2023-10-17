@@ -49,8 +49,8 @@ int main(int argc, char **argv) {
     printf("2d |",i);
 
     //use third for loop 
-
-    for()
+  //initialize variable
+    for(int j=1;)
 
   }
  
