@@ -23,7 +23,8 @@ int main(int argc, char **argv) {
   for(int i=0; i<10; i++) {
     printf("%d\n", i);
   }
-
+ #include<stdio.h>
+ int main()
   //1. Rewrite the given for loop as an equivalent while loop
   for(int i=10; i<20; i+=3) {
     printf("%d ", i);
@@ -37,7 +38,8 @@ int main(int argc, char **argv) {
   }
   
   }
-
+#include<stdio.h>
+int main ()
   //2. Rewrite the given while loop as an equivalent for loop
   int k = 3;
   while(k > -4) {
@@ -55,7 +57,8 @@ int main(int argc, char **argv) {
     printf("%d\n",k);
   }
   }
-
+#include<stdio.h>
+int main()
   //3. Print numbers 1 thru n separated by a comma except for
   //   the last one; example: 1, 2, 3, 4, 5
 
@@ -98,6 +101,8 @@ int main(int argc, char **argv) {
 
   }
   
+  #include<stdio.h>
+  int main()
 
   //4. Print squares of numbers 1 thru n separated by a comma
   //   except for the last one; example: 1, 4, 9, 16, 25
@@ -140,6 +145,9 @@ for(int i=1; i<=n; i++){
 
 }
   
+  #include<stdio.h>
+
+  int main()
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
 
@@ -185,6 +193,9 @@ for(int i=1; i<=n; i++){
     //retrun with success 
     return 0;
      }
+
+     #include<stdio.h>
+     int main()
 
   //6. Compute the summation of squares of numbers 1 thru n
   //   and print the result; example: 1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55
@@ -241,6 +252,9 @@ return 0;
 //return with successes
   }
 
+#include<stdio.h>
+
+int main()
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
 
@@ -288,6 +302,10 @@ return 0;
     //code successes message
     return 0;
   }
+
+  #include<stdio.h>
+
+  int main()
 
   //8. Write a solution to the following variation of the FizzBuzz
   //   problem.  Print out integers 1 thru n, one to a line, except
