@@ -217,7 +217,11 @@ for(int i=1; i<=n; i++){
 
   //use printf function
 
-  printf("Square of the number:")
+  printf("Square of the number:");
+
+  //using for loop
+
+  for(int i=1;)
 
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
