@@ -256,7 +256,11 @@ return 0;
 
   //use conditon 
   if (n<2){
-    
+
+    //use printf to show output to user
+    printf("Please provide a number that Greater or equal to 2:");
+
+    return 1; //error message
   }
 
   //8. Write a solution to the following variation of the FizzBuzz
