@@ -126,7 +126,9 @@ if (n<1){
 //declared a variable
 //declared condition if the condition is ture then the program is rapeating
 for(int i=1; i<=n; i++){
-  
+  //square of number
+  //using predefine function
+  printf("%d,",i*i);
 }
   
   //5. Compute the summation of numbers 1 thru n and print
