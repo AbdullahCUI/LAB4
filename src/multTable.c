@@ -42,7 +42,10 @@ int main(int argc, char **argv) {
   //use for loop for table
 //initialize variable
 //add condition in loop
-  for(init i=1;  i<= number;)
+//expression in loop
+  for(init i=1;  i<= number; i++){
+
+  }
  
   return 0;
 }
