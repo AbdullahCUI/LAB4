@@ -62,6 +62,10 @@ int main(int argc, char **argv) {
   //declared valriable
 
   int number;
+
+  //using the printf statment to inform the user to enter a number
+
+  printf("Please enter a nubmer");
   
 
   //4. Print squares of numbers 1 thru n separated by a comma
