@@ -47,8 +47,12 @@ int main(int argc, char **argv) {
   printf("\n");
 
   //using for loop 
+  //declared varaible
+  //declared condition
+  //declared expression
   for(int k=3; k>-4; k--){
-    
+
+    printf("%d\n",k);
   }
   }
 
