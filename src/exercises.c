@@ -122,6 +122,8 @@ if (n<1){
   //if thise condition is ture
   return 1;
 }
+//using for loop
+for()
   
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
