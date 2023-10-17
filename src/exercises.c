@@ -202,7 +202,15 @@ for(int i=1; i<=n; i++){
 
   //use condtion statment
 
-  if(n<1)
+  if(n<1){
+    //show out on console
+
+    printf("Please Provide Positive Number:");
+
+    //exit on error 
+
+    return 0;
+  }
 
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
