@@ -152,6 +152,8 @@ for(int i=1; i<=n; i++){
 
   //use scanf function to read a number from user
   scanf("%d",&number);
+  //if the condion is ture then return 1
+  return 1;
 
   //use codition statment
 
