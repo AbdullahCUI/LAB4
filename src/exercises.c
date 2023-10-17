@@ -47,6 +47,7 @@ int main(int argc, char **argv) {
   printf("\n");
 
   //using for loop 
+  for(int k=3;)
   }
 
   //3. Print numbers 1 thru n separated by a comma except for
