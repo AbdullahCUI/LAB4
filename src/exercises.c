@@ -316,6 +316,10 @@ if(n<1){
 
   return 1; //error message
 }
+//use for loop 
+//declare,condtion and expression
+for(int i=i; i<=n; i++){
 
+}
   return 0;
 }
