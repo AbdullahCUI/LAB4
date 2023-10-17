@@ -76,7 +76,7 @@ int main(int argc, char **argv) {
   if(n>1){
 
 //use for loop
-    for(int i=1;)
+    for(int i=1; i>=n;)
 
   }
   
