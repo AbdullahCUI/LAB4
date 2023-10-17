@@ -277,6 +277,12 @@ return 0;
     //sum of number
     sum +=i;
   }
+  //use if statment
+
+  if(i<n-1){
+    //out put
+    printf("+");
+  }
 
   //8. Write a solution to the following variation of the FizzBuzz
   //   problem.  Print out integers 1 thru n, one to a line, except
