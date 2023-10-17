@@ -222,7 +222,11 @@ for(int i=1; i<=n; i++){
   //using for loop
 
   for(int i=1; i<=n; i++){
-    
+
+    //declared third variable
+
+    int square=i*i;
+
   }
 
   //7. Compute the summation of even numbers 1 thru n and print
