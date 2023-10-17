@@ -53,7 +53,7 @@ int main(int argc, char **argv) {
     } else if (numGuesses<number){
 
       //showing the message to user that we use printf funtion
-      printf("The number is to low :Please try again:\n800");
+      printf("The number is to low :Please try again:\n");
 
 //using else statment to show if the if and if-else statment is false then the else is correct
     }else {
