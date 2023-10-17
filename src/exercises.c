@@ -331,7 +331,7 @@ printf("FooBar\n");
 
 //condition correction message
 printf("Foo\n");
-}
+} else if ()//thrid condition
 
 }
   return 0;
