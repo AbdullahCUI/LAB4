@@ -129,6 +129,12 @@ for(int i=1; i<=n; i++){
   //square of number
   //using predefine function
   printf("%d,",i*i);
+  
+  //using anthor (if) condition
+  if (i<n){
+    printf(",");
+  }
+
 }
   
   //5. Compute the summation of numbers 1 thru n and print
