@@ -329,6 +329,8 @@ printf("FooBar\n");
 
 } else if (i%7==0){ //second condition
 
+//condition correction message
+printf("Foo\n");
 }
 
 }
