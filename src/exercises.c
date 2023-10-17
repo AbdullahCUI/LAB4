@@ -189,6 +189,9 @@ for(int i=1; i<=n; i++){
   //6. Compute the summation of squares of numbers 1 thru n
   //   and print the result; example: 1^2 + 2^2 + 3^2 + 4^2 + 5^2 = 55
 
+//start question 6
+  int number;
+
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
 
