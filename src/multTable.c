@@ -24,6 +24,10 @@ int main(int argc, char **argv) {
   //to read a number use scanf
 
   scanf("%d", &number);
+
+  //using for loop
+
+  for()
  
   return 0;
 }
