@@ -81,9 +81,12 @@ int main(int argc, char **argv) {
 //add expression
     for(int i=1; i>=n; i++);
 
-    if(n<=i)
-
+    if(n<=i){
 // using printf fucntion to show out put
+   printf("%d,",i);
+    }
+
+
 
 
 
