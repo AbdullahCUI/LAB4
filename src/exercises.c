@@ -254,6 +254,11 @@ return 0;
   //use scanf to read a number from user
   scanf("%d",&number);
 
+  //use conditon 
+  if (n<2){
+    
+  }
+
   //8. Write a solution to the following variation of the FizzBuzz
   //   problem.  Print out integers 1 thru n, one to a line, except
   //   that if the integer is divisible by 7 print "Foo" instead.
