@@ -68,6 +68,8 @@ int main(int argc, char **argv) {
   printf("Please enter a nubmer");
 
   //use the scanf function to read a number from user
+
+  scanf("%d", & number);
   
 
   //4. Print squares of numbers 1 thru n separated by a comma
