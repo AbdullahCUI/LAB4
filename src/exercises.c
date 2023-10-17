@@ -31,6 +31,9 @@ int main(int argc, char **argv) {
   printf("\n");
   //using while loop
   int i;
+  while(i<20){
+    
+  }
   
   }
 
