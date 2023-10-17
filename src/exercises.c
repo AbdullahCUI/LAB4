@@ -284,6 +284,9 @@ return 0;
     printf("+");
   } else {
     printf("= %d\n",sum);
+
+    //code successes message
+    return 0;
   }
 
   //8. Write a solution to the following variation of the FizzBuzz
