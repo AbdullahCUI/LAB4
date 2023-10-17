@@ -118,6 +118,9 @@ if (n<1){
   //using printf statment
 
   printf("Try again Please Provide A positive Number:");
+
+  //if thise condition is ture
+  return 1;
 }
   
   //5. Compute the summation of numbers 1 thru n and print
