@@ -233,6 +233,9 @@ printf("%d^2",i);
 if (i<n){
   //use printf
   printf("+");
+} else {
+  //use printf function
+  printf("=%d\n",sum);
 }
   }
 
