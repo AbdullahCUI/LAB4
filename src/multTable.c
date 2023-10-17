@@ -40,8 +40,8 @@ int main(int argc, char **argv) {
 
   //now display a table
   //use for loop for table
-
-  for()
+//initialize variable
+  for(init i=1;)
  
   return 0;
 }
