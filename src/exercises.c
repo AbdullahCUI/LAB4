@@ -262,7 +262,11 @@ return 0;
 
     return 1; //error message
   } 
-  int sum_number=0
+  int sum_number=0;
+
+  //sum of even numbers
+
+  printf("Sum of even Numbers:");
 
   //8. Write a solution to the following variation of the FizzBuzz
   //   problem.  Print out integers 1 thru n, one to a line, except
