@@ -49,6 +49,8 @@ int main(int argc, char **argv) {
 
       printf("Number is to High:Please try again:");
 
+ // using condition if the number is less than declared number than this statment show the give message
+    } else if (numGuesses<number){
 
     }
   }
