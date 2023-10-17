@@ -30,7 +30,10 @@ int main(int argc, char **argv) {
 //declared a condition
 //add expression
   for(int i=1; i<=number; i++){
-    
+    //printf output on console
+  //%4d mean thet print 4 digit
+    printf("%4d",i);
+
   }
  
   return 0;
