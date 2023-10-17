@@ -70,6 +70,8 @@ int main(int argc, char **argv) {
   //use the scanf function to read a number from user
 
   scanf("%d", & number);
+
+  //using condtion 
   
 
   //4. Print squares of numbers 1 thru n separated by a comma
