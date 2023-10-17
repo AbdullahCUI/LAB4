@@ -296,5 +296,9 @@ return 0;
   //   the integer is divisible by both 7 and 11, print "FooBar"
   //   instead.
 
+  //start question 8
+
+  int number;
+
   return 0;
 }
