@@ -104,6 +104,10 @@ int main(int argc, char **argv) {
 
 //star question 4 
 int number;
+
+//using printf function to show the output on console
+
+printf("Please Enter a Number:");
   
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
