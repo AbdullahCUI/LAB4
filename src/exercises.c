@@ -114,7 +114,11 @@ scanf("%d", &number);
 
 //using conditional statment
 
-if (n<1){}
+if (n<1){
+  //using printf statment
+
+  printf("Try again Please Provide A positive Number:");
+}
   
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
