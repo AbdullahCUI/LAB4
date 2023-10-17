@@ -182,6 +182,8 @@ for(int i=1; i<=n; i++){
       //show output
       printf("%d\n",sum);
     }
+    //retrun with success 
+    return 0;
      }
 
   //6. Compute the summation of squares of numbers 1 thru n
