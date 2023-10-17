@@ -270,7 +270,9 @@ return 0;
 
   //using for loop
 
-  for(int i=2)
+  for(int i=2; i<=n; i++){
+    
+  }
 
   //8. Write a solution to the following variation of the FizzBuzz
   //   problem.  Print out integers 1 thru n, one to a line, except
