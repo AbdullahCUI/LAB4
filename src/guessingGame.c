@@ -39,7 +39,7 @@ int main(int argc, char **argv) {
     printf("Please enter a NUmber For Guesses Game:");
  
  //using scanf predefine function to read number from user
-    scnaf("%d",&numGuesses);
+    scanf("%d",&numGuesses);
 
     //using conditional statment 
   //if user enter number(numguesse) is greater than number
@@ -60,7 +60,7 @@ int main(int argc, char **argv) {
   } else {
     printf("Congratulations, you found it!  Number of guesses: %d\n", numGuesses);
 
-  }
+  }while (numGuesses !=number);
 
   
   return 0;
