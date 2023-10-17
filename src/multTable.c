@@ -17,6 +17,9 @@ int main(int argc, char **argv) {
 
   int number,i,j;
   
+  //out put message on console
+
+  printf("Please enter A number:");
  
   return 0;
 }
