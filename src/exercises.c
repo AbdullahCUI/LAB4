@@ -32,7 +32,7 @@ int main(int argc, char **argv) {
   //using while loop
   int i;
   while(i<20){
-    
+    printf("%d",i);
   }
   
   }
