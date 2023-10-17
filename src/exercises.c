@@ -171,6 +171,10 @@ for(int i=1; i<=n; i++){
     //using printf function
     printf("%d",i);
     sum+=i;
+//use if condition
+    if(i<n){
+      
+    }
      }
 
   //6. Compute the summation of squares of numbers 1 thru n
