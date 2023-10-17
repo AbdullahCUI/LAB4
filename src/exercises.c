@@ -320,6 +320,12 @@ if(n<1){
 //declare,condtion and expression
 for(int i=i; i<=n; i++){
 
+// use condition statment
+if(i%7==0 && i%11 ==0){
+
+  
+}
+
 }
   return 0;
 }
