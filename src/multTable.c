@@ -20,6 +20,10 @@ int main(int argc, char **argv) {
   //out put message on console
 
   printf("Please enter A number:");
+
+  //to read a number use scanf
+
+  scanf("%d", &number);
  
   return 0;
 }
