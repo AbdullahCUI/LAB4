@@ -275,7 +275,7 @@ return 0;
     //show out put
     printf("%d",i);
     //sum of number
-    sum +=i;
+    sum_number +=i;
   }
   //use if statment
 
@@ -283,7 +283,7 @@ return 0;
     //out put
     printf("+");
   } else {
-    printf("= %d\n",sum);
+    printf("= %d\n",sum_number);
 
     //code successes message
     return 0;
