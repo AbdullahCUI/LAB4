@@ -331,7 +331,10 @@ printf("FooBar\n");
 
 //condition correction message
 printf("Foo\n");
-} else if ()//thrid condition
+} else if (i%11==00)//thrid condition
+
+//output 
+printf("Bar\n");
 
 }
   return 0;
