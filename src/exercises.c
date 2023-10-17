@@ -226,7 +226,9 @@ for(int i=1; i<=n; i++){
     //declared third variable
 
     int square=i*i;
+//using printf function
 
+printf("%d^2",i);
   }
 
   //7. Compute the summation of even numbers 1 thru n and print
