@@ -27,7 +27,8 @@ int main(int argc, char **argv) {
 
   //using for loop
 //declare a variable and store a number in them
-  for(int i=1;)
+//declared a condition
+  for(int i=1; i<=number;)
  
   return 0;
 }
