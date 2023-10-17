@@ -73,11 +73,11 @@ int main(int argc, char **argv) {
 
   //using condtion 
 
-  if(n>1){
+  if(n>=1){
 
 //use for loop
     for(int i=1; i>=n; i++){
-      
+
     }
 
   }
