@@ -33,6 +33,7 @@ int main(int argc, char **argv) {
   int i;
   while(i<20){
     printf("%d",i);
+    i=+3;
   }
   
   }
