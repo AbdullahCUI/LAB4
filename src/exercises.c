@@ -211,6 +211,9 @@ for(int i=1; i<=n; i++){
 
     return 1;
   }
+  //declared seconde variable 
+
+  int sum=0;
 
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
