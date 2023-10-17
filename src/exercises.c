@@ -72,6 +72,10 @@ int main(int argc, char **argv) {
   scanf("%d", & number);
 
   //using condtion 
+
+  if(n>1){
+    
+  }
   
 
   //4. Print squares of numbers 1 thru n separated by a comma
