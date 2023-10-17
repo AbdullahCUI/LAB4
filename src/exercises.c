@@ -125,7 +125,9 @@ if (n<1){
 //using for loop
 //declared a variable
 //declared condition if the condition is ture then the program is rapeating
-for(int i=1; i<=n;)
+for(int i=1; i<=n; i++){
+  
+}
   
   //5. Compute the summation of numbers 1 thru n and print
   //   the result; example: 1 + 2 + 3 + 4 + 5 = 15
