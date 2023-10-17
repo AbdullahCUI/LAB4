@@ -200,6 +200,10 @@ for(int i=1; i<=n; i++){
 
   scanf("%d", &number);
 
+  //use condtion statment
+
+  if(n<1)
+
   //7. Compute the summation of even numbers 1 thru n and print
   //   the result; example (n=5): 2 + 4 = 6
 
