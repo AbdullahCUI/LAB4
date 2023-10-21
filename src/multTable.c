@@ -48,25 +48,31 @@ int main()
   for(int i=1;  i<= number; i++){
 
     //print out put
-    printf("-----------");
-
+    
+  }
     //use third for loop 
   //initialize variable
   //add condition
   //add expression
-    for(int j=1; j<=number; j++){
+    for(int i=1; i<=number; i++){
 
       //print output on console
-    
+      printf("%2d",i);
+
+      for (int j = 1; j <= number; j++){
+
+        printf("%4d",i*j); 
+      }
+     printf("\n");
     } 
-  printf("%4d |", i*j);
+  return 0;
     }
       
     
 
-    printf("\n");
+  
       
-    }  
+      
 
   
     
