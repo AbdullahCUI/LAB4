@@ -9,13 +9,14 @@
 #include <stdio.h>
 #include<math.h>
 
-int main(int argc, char **argv) {
+int main() 
+{
 
 
   //TODO: place your code here
   //write my self code
 
-  int number,i,j;
+  int number;
   
   //out put message on console
 
@@ -35,7 +36,7 @@ int main(int argc, char **argv) {
     printf("%4d",i);
 
   }
-  /
+  
   printf("\n");
 
   //now display a table
@@ -43,10 +44,11 @@ int main(int argc, char **argv) {
 //initialize variable
 //add condition in loop
 //expression in loop
-  for(init i=1;  i<= number; i++){
+
+  for(int i=1;  i<= number; i++){
 
     //print out put
-    printf("2d |",i);
+    printf("-----------");
 
     //use third for loop 
   //initialize variable
@@ -55,13 +57,26 @@ int main(int argc, char **argv) {
     for(int j=1; j<=number; j++){
 
       //print output on console
-
-      printf("%4d", i*j);
+    
+    } 
+  printf("%4d |", i*j);
     }
-    printf("\n")
+      
+    
 
-  }
+    printf("\n");
+      
+    }  
+
+  
+    
+   
+                               
+    
+    
+    
+
+  
  
  //program sucessesful message
-  return 0;
-}
+

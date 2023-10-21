@@ -64,4 +64,4 @@ int main(int argc, char **argv) {
   }while (numGuesses !=number);
 
   
-  return 0;
+}
